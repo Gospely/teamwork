@@ -1,0 +1,35 @@
+{
+  "name": "teamwork",
+  "version": "1.0.0",
+  "description": "teamwork",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gospely/teamwork.git"
+  },
+  "keywords": [
+    "Gospel",
+    "teamwork"
+  ],
+  "author": "Sharkseven",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-body": "^4.2.0",
+    "koa-socket": "^4.4.0",
+    "md5": "^2.1.0",
+    "node-dir": "^0.1.16",
+    "node-uuid": "^1.4.7",
+    "pg": "^6.1.0",
+    "koa-pg": "^1.0.0",
+    "request": "^2.75.0",
+    "sequelize": "^3.24.3"
+    },
+  "bugs": {
+    "url": "https://github.com/Gospely/teamwork/issues"
+  },
+  "homepage": "https://github.com/Gospely/teamwork#readme"
+}
